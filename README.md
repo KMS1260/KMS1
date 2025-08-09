@@ -97,7 +97,7 @@ Offensive security project repository covering OSINT reconnaissance, SQL injecti
 ### 🔍 [Threat Detection, Playbooks & SOC IR](./projects/threat-detection/README.md)
 Detection engineering and incident response exercises based on real-world SOC workflows.
 
-### 🧪 [Digital Forensics & Data Protection](./projects/digital-forensics/README.md)
+### 🧪 [Digital Forensics & Data Protection Lifecycle](https://github.com/KMS1260/Digital-Forensics-Data-Protection-Lifecycle)
 Projects involving drive sanitization, forensic investigation, backups, and data encryption.
 
 ### 🌐 [Network Traffic Analysis](./projects/network-analysis/README.md)

@@ -94,7 +94,7 @@ Explore hands-on cybersecurity projects I've completed. Each category links to a
 ### 🛡️ [Pentesting](https://github.com/KMS1260/Pentesting)
 Offensive security project repository covering OSINT reconnaissance, SQL injection, lateral movement, persistence and more.
 
-### 🔍 [Threat Detection, Playbooks & SOC IR](./projects/threat-detection/README.md)
+### 🔍 [Threat Detection, Playbooks & SOC IR](https://github.com/KMS1260/Threat-Detection-Playbooks-SOC-Incident-Response)
 Detection engineering and incident response exercises based on real-world SOC workflows.
 
 ### 🧪 [Digital Forensics & Data Protection Lifecycle](https://github.com/KMS1260/Digital-Forensics-Data-Protection-Lifecycle)

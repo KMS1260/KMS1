@@ -100,7 +100,7 @@ Detection engineering and incident response exercises based on real-world SOC wo
 ### 🧪 [Digital Forensics & Data Protection Lifecycle](https://github.com/KMS1260/Digital-Forensics-Data-Protection-Lifecycle)
 Projects involving drive sanitization, forensic investigation, backups, and data encryption.
 
-### 🌐 [Network Traffic Analysis](./projects/network-analysis/README.md)
+### 🌐 [Network Traffic Analysis](https://github.com/KMS1260/Network-Traffic-Analysis-Intrusion-Investigation)
 Labs involving network sniffing, intrusion analysis, and traffic capture interpretation.
 
 ---
